@@ -1,4 +1,4 @@
-Sure, here is a README for your Airbnb-style website project:
+
 
 # Wanderlust
 
